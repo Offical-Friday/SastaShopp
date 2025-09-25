@@ -7,6 +7,19 @@
 # Environment variables
 .env
 .env.local
+.env.development
+.env.test
+.env.production
 
-# Firebase
-.firebase/
+# Temporary files
+*.log
+*.tmp
+*.temp
+.DS_Store
+
+# Build output (future)
+frontend/build/
+dist/
+
+# Editor configs
+.vscode/

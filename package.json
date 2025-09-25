@@ -1,0 +1,27 @@
+{
+  "name": "sastashopp",
+  "version": "1.0.0",
+  "description": "This is a e-commerce website project named SastaShopp, developed using HTML, CSS, JavaScript, Node.js, and Express.js. The project aims to provide a user-friendly platform for online shopping with features such as product listings, user authentication, and a shopping cart.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offical-Friday/SastaShopp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Offical-Friday/SastaShopp/issues"
+  },
+  "homepage": "https://github.com/Offical-Friday/SastaShopp#readme",
+  "devDependencies": {
+    "eslint": "^9.36.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "prettier": "^3.6.2"
+  }
+}
